@@ -1,0 +1,9 @@
+- ruby gem to tweet my daily progress for myself
+- astrobox electron app you can drop an STl and it will start the print for you
+- fusion 360 plugin to upload to astrobox
+- app paragliders can use to meetup so they don't need facebook
+- multigp replacement frontend
+- iOS mobile app that tracks paragliding flights
+- slackbot that checks last time pets were fed
+- daily heart rate monitor summary
+- times I stood up daily summary
