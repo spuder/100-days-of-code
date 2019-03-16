@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 14, 2019
+### Day 1: 2019-03-15
+
+**Today's Progress:** Electron app hello world, ruby script to generate this log
+
+**Thoughts:** Overwhelmed with javascript noob ness. Still google too much
+
+**Link to work:** spuder/astrobox360, spuder/100DaysOfCode
+
+### Day 0: 2019-03-14
 
 **Today's Progress:** Got file uploaded to astrobox with postman, reported bug on astrobox, tried to make astrobox print icon with javascript and python web server
 
