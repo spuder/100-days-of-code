@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: 2019-03-16
+
+**Today's Progress:** Copy-Pasta'd some code to watch a folder in electron
+
+**Thoughts:** javascript seems really unintuitive to me. Got code working but not without a ton of copy-paste. Able to read javascirpt, but totally can't write any yet
+
+**Link to work:** spuder/astrodrop360
+
 ### Day 1: 2019-03-15
 
 **Today's Progress:** Electron app hello world, ruby script to generate this log
