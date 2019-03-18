@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: 2019-03-17
+
+**Today's Progress:** Wrote a BitBar plugin that shows 3d printing status in osx menu bar
+
+**Thoughts:** Always seem to forget my bash basics for loops and stuff
+
+**Link to work:** [bitbar-astrobox](https://github.com/spuder/bitbar-astrobox)
+
 ### Day 2: 2019-03-16
 
 **Today's Progress:** Copy-Pasta'd some code to watch a folder in electron
