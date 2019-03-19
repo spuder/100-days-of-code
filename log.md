@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: 2019-03-18
+
+**Today's Progress:** Added bash itteration for bitbar astrobox plugin
+
+**Thoughts:** Bash arrays are anoying.
+
+**Link to work:** spuder/bitbar-astrobox
+
 ### Day 3: 2019-03-17
 
 **Today's Progress:** Wrote a BitBar plugin that shows 3d printing status in osx menu bar
