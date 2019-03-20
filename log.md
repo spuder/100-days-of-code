@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: 2019-03-19
+
+**Today's Progress:** Spent entire day troubleshooting bash arrays where input is a newline separated string. Works in tests, but not in prod. No idea why.
+
+**Thoughts:** Torn between tweaking the code that I have, and wanting to complely overhaul and rewrite from scratch. Avoiding temptation to start over. I need to get better at fixing others code, not just writing my own.
+
+**Link to work:** spuder/bitbar-astrobox
+
 ### Day 4: 2019-03-18
 
 **Today's Progress:** Added bash itteration for bitbar astrobox plugin
