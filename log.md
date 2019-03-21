@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: 2019-03-20
+
+**Today's Progress:** Got bash arrays working, wrote inotify script to watch directory for changes and uploads stl files to 3d printer
+
+**Thoughts:** Didn't think I'd get an hour intoday because so tired, ended up spending more than an hour once I got in the zone.
+
+**Link to work:** https://github.com/spuder/bitbar-astrobox/blob/b3aed8530efbbeefe370951d02afb073bf2cc8ae/bin/watch.sh
+
 ### Day 5: 2019-03-19
 
 **Today's Progress:** Spent entire day troubleshooting bash arrays where input is a newline separated string. Works in tests, but not in prod. No idea why.
