@@ -22,6 +22,9 @@ class Entry < Thor
     entry << ["**Link to work:** #{link}"]
     puts entry
     insert_into_file "log.md", "#{entry.join('')}", :after => "# 100 Days Of Code - Log"
+
+    #TODO: get twitter api key to post automatically
+    puts "D#{(Date.today()-day_one).to_i} #100DaysOfCode #{progress}" 
   end
   default_task :add
 
