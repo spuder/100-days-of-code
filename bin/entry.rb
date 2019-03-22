@@ -10,6 +10,7 @@ class Entry < Thor
     day_one = Date.new(2019,03,14)
     entry = ["\n\n"]
     entry << "\#\#\# Day #{(Date.today()-day_one).to_i}: #{Date.today()}"
+    puts "Day #{(Date.today()-day_one).to_i}"
     progress = ask("Todays Progress:")
     entry << ["\n\n"]
     entry << ["**Today's Progress:** #{progress}"]

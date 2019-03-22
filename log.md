@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: 2019-03-21
+
+**Today's Progress:** more bash to print 3d files
+
+**Thoughts:** really don't like editing other peoples code, much prefer my perfectly formatted code.
+
+**Link to work:** 
+
 ### Day 6: 2019-03-20
 
 **Today's Progress:** Got bash arrays working, wrote inotify script to watch directory for changes and uploads stl files to 3d printer
