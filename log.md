@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: 2019-03-22
+
+**Today's Progress:** Created some pathetic CSS by hand for electron
+
+**Thoughts:** Whats the correct way to edit CSS? Surely people aren't still doing this by hand are they?
+
+**Link to work:** https://github.com/spuder/astrobox360/commit/14be7c8b566a72eefbdad7472c252e71a443711b
+
 ### Day 7: 2019-03-21
 
 **Today's Progress:** more bash to print 3d files
