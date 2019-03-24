@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: 2019-03-23
+
+**Today's Progress:** More CSS, goodness I cant stand css
+
+**Thoughts:** I really hate front end stuff. Much rather write a gui in java than javascript/css.
+
+**Link to work:** 
+
 ### Day 8: 2019-03-22
 
 **Today's Progress:** Created some pathetic CSS by hand for electron
