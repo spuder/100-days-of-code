@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: 2019-03-24
+
+**Today's Progress:** javascript tutorials
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 9: 2019-03-23
 
 **Today's Progress:** More CSS, goodness I cant stand css
