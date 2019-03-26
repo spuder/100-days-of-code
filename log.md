@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: 2019-03-25
+
+**Today's Progress:** Got electron app running in OSX tray
+
+**Thoughts:** so much copy-pasta, JS is so inconstant. million ways to do the same thing
+
+**Link to work:** 
+
 ### Day 10: 2019-03-24
 
 **Today's Progress:** javascript tutorials
