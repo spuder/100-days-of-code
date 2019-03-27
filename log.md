@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: 2019-03-26
+
+**Today's Progress:** Attempting to get onClick() working in javascript
+
+**Thoughts:** Gosh dangit this is hard and super un organized. I want to have web developer skills, but everything front end is just so haky I don't like it.
+
+**Link to work:** 
+
 ### Day 11: 2019-03-25
 
 **Today's Progress:** Got electron app running in OSX tray
