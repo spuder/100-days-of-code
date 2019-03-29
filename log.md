@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 14: 2019-03-28
+
+**Today's Progress:** solved mx puzzle challenge 1 and part of 2 by writing assembly
+
+**Thoughts:** none
+
+**Link to work:** 
+
+### Day 13: 2019-03-27
+
+**Today's Progress:** Attempting to get javascript to POST form data to raspberry pi with XMLHttpRequest. Stuck getting 400 errors. Postman shows everything should work.
+
+**Thoughts:** Why is javascript such a ugly and fragile language.
+
+**Link to work:** spuder/astrobox360
+
 ### Day 12: 2019-03-26
 
 **Today's Progress:** Attempting to get onClick() working in javascript
