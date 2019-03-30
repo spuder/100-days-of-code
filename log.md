@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: 2019-03-29
+
+**Today's Progress:** Learned how to set registers as part of level 2 of this puzzle https://www.mx.com/u15
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 14: 2019-03-28
 
 **Today's Progress:** solved mx puzzle challenge 1 and part of 2 by writing assembly
