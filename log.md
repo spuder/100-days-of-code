@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 18: 2019-04-01
+
+**Today's Progress:** No code today
+
+**Thoughts:** Javascript sucks, I don't enjoy it.
+
+**Link to work:** 
+
+### Day 17: 2019-03-31
+
+**Today's Progress:** debugging electron XMLHttpRequest not returning expected error codes
+
+**Thoughts:** I need to follow the electron tutorials closer
+
+**Link to work:** 
+
+### Day 16: 2019-03-30
+
+**Today's Progress:** Got javascript buttons showing up and querying raspberry pi api
+
+**Thoughts:** Things actually clicking a little bit today with javascript. Node.js sheduled jobs is buggy in electron
+
+**Link to work:** https://github.com/spuder/astrodrop
+
 ### Day 15: 2019-03-29
 
 **Today's Progress:** Learned how to set registers as part of level 2 of this puzzle https://www.mx.com/u15
