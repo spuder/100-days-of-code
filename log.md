@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: 2019-04-02
+
+**Today's Progress:** Learned node.js hello world with AWS Lambda using SAM.
+
+**Thoughts:** Tried making an alexa app for astrobox, spent hours working on auth token. Never got it working since their API seems broken. Found endless api documentation errors. Opened multiple issues.
+
+**Link to work:** 
+
 ### Day 18: 2019-04-01
 
 **Today's Progress:** No code today
