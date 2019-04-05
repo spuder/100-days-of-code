@@ -1,12 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 21: 2019-04-04
+
+**Today's Progress:** family vacation
+
+**Thoughts:**
+
+**Link to work:**
+
+### Day 20: 2019-04-03
+
+**Today's Progress:** family vacation
+
+**Thoughts:**
+
+**Link to work:**
+
 ### Day 19: 2019-04-02
 
 **Today's Progress:** Learned node.js hello world with AWS Lambda using SAM.
 
 **Thoughts:** Tried making an alexa app for astrobox, spent hours working on auth token. Never got it working since their API seems broken. Found endless api documentation errors. Opened multiple issues.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 18: 2019-04-01
 
@@ -14,7 +30,7 @@
 
 **Thoughts:** Javascript sucks, I don't enjoy it.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 17: 2019-03-31
 
@@ -22,7 +38,7 @@
 
 **Thoughts:** I need to follow the electron tutorials closer
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 16: 2019-03-30
 
@@ -36,9 +52,9 @@
 
 **Today's Progress:** Learned how to set registers as part of level 2 of this puzzle https://www.mx.com/u15
 
-**Thoughts:** 
+**Thoughts:**
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 14: 2019-03-28
 
@@ -46,7 +62,7 @@
 
 **Thoughts:** none
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 13: 2019-03-27
 
@@ -62,7 +78,7 @@
 
 **Thoughts:** Gosh dangit this is hard and super un organized. I want to have web developer skills, but everything front end is just so haky I don't like it.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 11: 2019-03-25
 
@@ -70,15 +86,15 @@
 
 **Thoughts:** so much copy-pasta, JS is so inconstant. million ways to do the same thing
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 10: 2019-03-24
 
 **Today's Progress:** javascript tutorials
 
-**Thoughts:** 
+**Thoughts:**
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 9: 2019-03-23
 
@@ -86,7 +102,7 @@
 
 **Thoughts:** I really hate front end stuff. Much rather write a gui in java than javascript/css.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 8: 2019-03-22
 
@@ -102,7 +118,7 @@
 
 **Thoughts:** really don't like editing other peoples code, much prefer my perfectly formatted code.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 6: 2019-03-20
 
