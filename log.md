@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22: 2019-04-05
+
+**Today's Progress:** vacation
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 21: 2019-04-04
 
 **Today's Progress:** family vacation
