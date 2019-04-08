@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 24: 2019-04-07
+
+**Today's Progress:** Connected to websocket with node.js, learning how to do callback functions for auth
+
+**Thoughts:** feeling a little more confident, still feel like I"m 1/4 of way though challenge but don't actually have any ything I can present yet.
+
+**Link to work:** [https://github.com/spuder/alexa-astroprint/commit/c865e144f18478f1ddbf7a2eec123f517e3c7c01](https://github.com/spuder/alexa-astroprint/commit/c865e144f18478f1ddbf7a2eec123f517e3c7c01)
+
+### Day 23: 2019-04-06
+
+**Today's Progress:** Attempted to get websockets working to astroprint cloud with bash
+
+**Thoughts:** Tried multiple websocket clients. swebsocat got the furthest but is stuck on reponse
+
+**Link to work:** [https://github.com/spuder/alexa-astroprint/commit/f3ab0669af1d11e6ac473a0f9604758924b94219](https://github.com/spuder/alexa-astroprint/commit/f3ab0669af1d11e6ac473a0f9604758924b94219)
+
 ### Day 22: 2019-04-05
 
 **Today's Progress:** vacation
