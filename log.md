@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 25: 2019-04-08
+
+**Today's Progress:** ReWrote node.js websockets. Code is so much cleaner and understandable
+
+**Thoughts:** astroprints websocket api is poorly documented. 2 hours now and I can't get an auth token.
+
+**Link to work:** [https://github.com/spuder/alexa-astroprint/blob/c598acc39c597c5b2c6c04a4763fffe28d4e4de7/sandbox/nodewebsocket2/index.js](https://github.com/spuder/alexa-astroprint/blob/c598acc39c597c5b2c6c04a4763fffe28d4e4de7/sandbox/nodewebsocket2/index.js)
+
 ### Day 24: 2019-04-07
 
 **Today's Progress:** Connected to websocket with node.js, learning how to do callback functions for auth
