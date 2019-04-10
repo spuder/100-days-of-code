@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26: 2019-04-09
+
+**Today's Progress:** websockets troubleshooting
+
+**Thoughts:** astrobox api is new and undocumented
+
+**Link to work:** 
+
 ### Day 25: 2019-04-08
 
 **Today's Progress:** ReWrote node.js websockets. Code is so much cleaner and understandable
