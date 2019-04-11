@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: 2019-04-10
+
+**Today's Progress:** Made alexa hello world using jovo app framework
+
+**Thoughts:** Finally figured out why the astroprint api isn't working. Started working with alexa so I could get a callback url for oath2. Amazed how complex amazon is, yet they've made it pretty straight forward to make an app.
+
+**Link to work:** https://github.com/spuder/alexa-astroprint/tree/jovo
+
 ### Day 26: 2019-04-09
 
 **Today's Progress:** websockets troubleshooting
