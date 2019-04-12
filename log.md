@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: 2019-04-11
+
+**Today's Progress:** Finally got oauth 2.0 authenticating with postman
+
+**Thoughts:** oauth2 isn't so scary in postman, still daunting in node
+
+**Link to work:** 
+
 ### Day 27: 2019-04-10
 
 **Today's Progress:** Made alexa hello world using jovo app framework
