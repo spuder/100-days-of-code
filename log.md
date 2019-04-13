@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 29: 2019-04-12
+
+**Today's Progress:** No real progress today. stuck on websocket wierdness
+
+**Thoughts:** tired
+
+**Link to work:** 
+
 ### Day 28: 2019-04-11
 
 **Today's Progress:** Finally got oauth 2.0 authenticating with postman
