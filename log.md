@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 30: 2019-04-13
+
+**Today's Progress:** tried websockets with ruby. Very similar to javascript
+
+**Thoughts:** poorly documented apis are the worst
+
+**Link to work:** 
+
 ### Day 29: 2019-04-12
 
 **Today's Progress:** No real progress today. stuck on websocket wierdness
