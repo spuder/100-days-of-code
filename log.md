@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 31: 2019-04-14
+
+**Today's Progress:** learned how to connect to websockets with python
+
+**Thoughts:** learned about pythons command line websocket client
+
+**Link to work:** 
+
 ### Day 30: 2019-04-13
 
 **Today's Progress:** tried websockets with ruby. Very similar to javascript
