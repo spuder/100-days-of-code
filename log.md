@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 32: 2019-04-15
+
+**Today's Progress:** no motivation today. feeling burnt and frustrated, didn't code
+
+**Thoughts:** why have an api if no one can useit
+
+**Link to work:** 
+
 ### Day 31: 2019-04-14
 
 **Today's Progress:** learned how to connect to websockets with python
