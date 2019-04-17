@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 33: 2019-04-16
+
+**Today's Progress:** Searching for lost dog, no time for code
+
+**Thoughts:** coding has really lost its spark lately
+
+**Link to work:** 
+
 ### Day 32: 2019-04-15
 
 **Today's Progress:** no motivation today. feeling burnt and frustrated, didn't code
