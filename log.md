@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 35: 2019-04-18
+
+**Today's Progress:** search and rescue emergency trip, no code
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 33: 2019-04-16
 
 **Today's Progress:** Searching for lost dog, no time for code
