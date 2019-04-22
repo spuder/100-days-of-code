@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 38: 2019-04-21
+
+**Today's Progress:** dog got sick, ate toxic stuff, no coding
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 35: 2019-04-18
 
 **Today's Progress:** search and rescue emergency trip, no code
