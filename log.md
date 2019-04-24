@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 40: 2019-04-23
+
+**Today's Progress:** no code, too busy, found dog lost in mountains
+
+**Thoughts:** so busy with search and rescue, no coding sounds fun right now
+
+**Link to work:** 
+
 ### Day 38: 2019-04-21
 
 **Today's Progress:** dog got sick, ate toxic stuff, no coding
