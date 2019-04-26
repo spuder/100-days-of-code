@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 42: 2019-04-25
+
+**Today's Progress:** codeademy javascript training
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 40: 2019-04-23
 
 **Today's Progress:** no code, too busy, found dog lost in mountains
