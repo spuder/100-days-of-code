@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 48: 2019-05-01
+
+**Today's Progress:** havent felt like coding, too busy
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 42: 2019-04-25
 
 **Today's Progress:** codeademy javascript training
