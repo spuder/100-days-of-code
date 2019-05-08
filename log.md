@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 54: 2019-05-07
+
+**Today's Progress:** Fell of the wagon with all the camping been doing, starting back up with exercism golang
+
+**Thoughts:** Coding has been frustrating and not fun. Lost momentium when I went and did search and rescue. Went to golang meetup, so abandoing boring 3d printing stuff I've been trying and starting fresh with some golang exercism exercises.
+
+**Link to work:** github.com/spuder/exercism
+
 ### Day 48: 2019-05-01
 
 **Today's Progress:** havent felt like coding, too busy
