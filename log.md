@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 56: 2019-05-09
+
+**Today's Progress:** golang practice on exercism
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 54: 2019-05-07
 
 **Today's Progress:** Fell of the wagon with all the camping been doing, starting back up with exercism golang
