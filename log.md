@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 58: 2019-05-11
+
+**Today's Progress:** writing 'days until' calculator in go
+
+**Thoughts:** 
+
+**Link to work:** 
+
 ### Day 56: 2019-05-09
 
 **Today's Progress:** golang practice on exercism
